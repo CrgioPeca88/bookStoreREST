@@ -15,7 +15,7 @@ import luc.webservices.domain.Status;
 @XmlRootElement ( name = "Order" )
 @XmlAccessorType ( XmlAccessType.FIELD )
 @XmlType ( name = "" )
-public class OrderRepresentation extends AbstractRepresentation
+public class OrderRepresentation
 {
 	// ----------------------------
 	// Attributes
